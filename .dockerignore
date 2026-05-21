@@ -1,0 +1,10 @@
+vendor
+node_modules
+.git
+.github
+/.env
+*.log
+*.sqlite
+/.vscode
+/.idea
+/.DS_Store
