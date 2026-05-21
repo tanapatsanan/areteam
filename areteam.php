@@ -15,7 +15,7 @@
 
   <div class="video">
     <video autoplay muted loop id="myVideo">
-      <source src="video/noonar.mp4" type="video/mp4">
+      <source src="video/noonar.MP4" type="video/mp4">
     </video>
 
     <div class="content">
@@ -28,7 +28,7 @@
   <div class="newVideo" id="newVideoContainer">
       <button id="exitButton">X</button>
       <video controls id="newVideo" width="1000px" height="600px">
-        <source src="video/Nunar_01.mp4" type="video/mp4">
+        <source src="/video/Nunar_01.mp4" type="video/mp4">
       </video>
   </div>
 
@@ -122,7 +122,7 @@
         position: relative;
     }
 
-    newVideo video {
+    .newVideo video {
         max-width: 90%; /* ปรับขนาดวิดีโอให้พอดีกับหน้าจอ */
         max-height: 80%;
         border-radius: 10px;
