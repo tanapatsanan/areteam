@@ -15,8 +15,8 @@
       <a href="ComingSoon.php" class="small">PRODUCTS</a>
       <a href="test.php" class="small">SERVICE</a>
       <a href="test2.php" class="small">ABOUT</a>
-      <a href="facilties.php" class="small">FACILITIES</a>
-      <a href="contact.php" class="small">CONTACT</a>
+      <a href="test3.php" class="small">FACILITIES</a>
+      <a href="test4.php" class="small">CONTACT</a>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
       </a>
